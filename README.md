@@ -1,5 +1,5 @@
 # Resume Website
-https://github.com/Nk1999uj/Resume/blob/main/index.html
+https://nk1999uj.github.io/Resume/
 A responsive resume website created using HTML and CSS.
 
 ## Features
