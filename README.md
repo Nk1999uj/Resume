@@ -1,25 +1,12 @@
 # Resume Website
 
 A responsive resume website created using HTML and CSS.
-project url:- https://nk1999uj.github.io/Resume/
+
+## Project URL
+https://nk1999uj.github.io/Resume/
+
 ## Features
 - Clean UI design
 - Responsive layout
 - Personal portfolio style resume
 - Simple and lightweight
-
-## Technologies Used
-- HTML5
-- CSS3
-
-## How to Run
-1. Download or clone the repository
-2. Open `https://nk1999uj.github.io/Resume/` in any browser
-
-## Project Structure
-├── index.html  
-├── style.css  
-└── assets/
-
-## Author
-Nishant Kumar Singh
